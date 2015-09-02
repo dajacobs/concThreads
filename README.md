@@ -1,2 +1,2 @@
 # concThreads
-Concurrency Threads using Java/Eclipse.
+Concurrency Threads using Java.
