@@ -1,5 +1,3 @@
-package src;
-
 public class SynchronizedCounter {
     private int c = 0;
     public synchronized void increment() {

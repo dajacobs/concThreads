@@ -1,5 +1,3 @@
-package src;
-
 class Counter {
     private int c = 0;
     public void increment() {

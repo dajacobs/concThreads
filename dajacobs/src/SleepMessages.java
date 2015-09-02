@@ -1,5 +1,3 @@
-package src;
-
 public class SleepMessages {
     public static void main(String args[]) throws InterruptedException {
         String importantInfo[] = {

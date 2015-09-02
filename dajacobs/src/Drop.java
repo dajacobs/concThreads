@@ -1,5 +1,3 @@
-package src;
-
 public class Drop {
     // Message sent from producer 
     // to consumer.

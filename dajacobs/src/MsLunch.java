@@ -1,5 +1,3 @@
-package src;
-
 public class MsLunch {
     private long c1 = 0;
     private long c2 = 0;

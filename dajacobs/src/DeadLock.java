@@ -1,5 +1,3 @@
-package src;
-
 public class DeadLock {
     static class Friend {
         private final String name;

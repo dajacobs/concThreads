@@ -1,5 +1,3 @@
-package src;
-
 public class SimpleThreads {
     // Display a message, preceded by
     // the name of the current thread
