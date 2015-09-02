@@ -1,4 +1,4 @@
-package app;
+package src;
 
 public class SynchronizedCounter {
     private int c = 0;

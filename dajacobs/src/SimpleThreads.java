@@ -1,4 +1,4 @@
-package app;
+package src;
 
 public class SimpleThreads {
     // Display a message, preceded by

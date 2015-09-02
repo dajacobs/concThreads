@@ -1,4 +1,4 @@
-package app;
+package src;
 
 public class DeadLock {
     static class Friend {

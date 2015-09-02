@@ -1,4 +1,4 @@
-package app;
+package src;
 
 public class ProducerConsumerExample {
     public static void main(String args[]) {

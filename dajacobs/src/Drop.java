@@ -1,4 +1,4 @@
-package app;
+package src;
 
 public class Drop {
     // Message sent from producer 

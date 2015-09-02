@@ -1,4 +1,4 @@
-package app;
+package src;
 
 public class MsLunch {
     private long c1 = 0;

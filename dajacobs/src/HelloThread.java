@@ -1,4 +1,4 @@
-package app;
+package src;
 
 public class HelloThread extends Thread {
     @Override

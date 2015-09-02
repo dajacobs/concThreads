@@ -1,4 +1,4 @@
-package app;
+package src;
 
 public class SleepMessages {
     public static void main(String args[]) throws InterruptedException {

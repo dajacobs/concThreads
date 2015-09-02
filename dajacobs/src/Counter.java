@@ -1,4 +1,4 @@
-package app;
+package src;
 
 class Counter {
     private int c = 0;
