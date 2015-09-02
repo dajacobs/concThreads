@@ -1,4 +1,4 @@
-package dajacobs_hw1;
+package app;
 
 public class SleepMessages {
     public static void main(String args[]) throws InterruptedException {
